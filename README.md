@@ -1,6 +1,6 @@
 # Spotify Playlist Generator
 
-Spotify Playlist Generator is a project that uses OpenAI's GPT-4 model to create a Spotify playlist based on a user's prompt. This app generates a list of songs and their artists that match the user's input, and then creates a Spotify playlist directly into the user's account using the Spotipy library.
+Spotify Playlist Generator is a project that uses OpenAI's GPT-4 model to create a Spotify playlist based on a user's prompt. This app generates a list of songs and their artists that match the user's input, and then creates a Spotify playlist directly into the user's account.
 
 ![User Input](./sc/terminal-sc.png)
 ![Happy Songs Playlist](./sc/happy-songs.png)
